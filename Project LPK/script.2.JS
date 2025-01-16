@@ -66,22 +66,6 @@ const skinProblems = {
                 tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal."
             }
         ]
-    },
-    "healthy": {
-        keywords:["sehat","bersih","lembap"],
-        responses: [
-            {
-                analisis: "Sepertinya anda memiiki kulit wajah yang baik, tapi untuk menjaga kesehatan kulit wajah anda.",
-                solusi: "Berikut cara menjaga kulit anda agar tetap sehat dan baik:",
-                langkah: [
-                    "1. Mengurangi makanan yang berminyak",
-                    "2. Menjaga waktu istirahat anda",
-                    "3. Minum air putih yang cukup",
-                    "4. Mengonsumsi sayuran dan buah"
-                ],
-                tips: "Selalu ikuti aturan diatas."
-            }
-        ]
     }
 };
 
